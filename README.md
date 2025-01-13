@@ -21,4 +21,8 @@ I am a dedicated Data Science student at RV College of Engineering, Bangalore, w
 * **Certificate of presentation in 8ᵗʰ IEEE International Conference on Computational Systems & Information
 Technology for Sustainable Solutions (CSITSS) as the first author** [click to view](https://github.com/Prithiviraj25/Certificates/blob/main/913%20Author_%20PRITHIVIRAJ%20N%20(1).pdf)
 * **Project Submission certificate for Google Solution Challenge 2023** [click to view](https://github.com/Prithiviraj25/Certificates/blob/main/solution%20challenge%202023%20.pdf)
+***
+### **Soft Skills 💡**
+* Public Speaking
+* Project Management and Team Work
   
