@@ -13,7 +13,7 @@ I am a dedicated Data Science student at RV College of Engineering, Bangalore, w
 * **Languages :** Python, SQL, C++
 * **Frameworks :** Tensorflow, Keras, Hugging Face Transformers, Scikit-Learn, NLTK, OpenCV
 * **Tools :** Instructlab, FastAPI, Git
-* **Specialities :** Machine Learning, Deep Learing, Natural Language Processing, LLMs
+* **Specialities :** Machine Learning, Deep Learing, Natural Language Processing, LLMs, MLOps
 ***
 ### **Certificates 🎖️**
 * **Certificate of Project Completion at Personifwy (1Stop.ai)** [click to view](https://github.com/Prithiviraj25/Certificates/blob/main/Prithiviraj_Aug_2023_project_completion_40842.pdf)
