@@ -6,8 +6,9 @@
 I am a dedicated Data Science student at RV College of Engineering, Bangalore, with a passion for leveraging technology to solve real-world problems. With experience leading impactful projects and contributing to innovative research, I am committed to making meaningful advancements in the field of AI and Data Science.
 ***
 ### **Professional Milestones 🌟**
+* **Student Project Lead at IBM (Dec 2024 - Present):** Working on a project focused on automating the porting of tools to z/OS, leveraging large language models
+(LLMs) to streamline and optimize the process.
 * **Data Science Intern at Personifwy (Aug 2023 - Dec 2023):** Gained in-depth knowledge of Natural Language Processing (NLP) while working on impactful projects like Hate Speech Detection and Spam SMS Classification.
-* **Industry Project Lead (Dec 2024 - Present):** Leading a cutting-edge project focused on enhancing worker safety using NLP and Deep Learning technologies.
 ***
 ### **Tech Toolbox 🛠️**
 * **Languages :** Python, SQL, C++
